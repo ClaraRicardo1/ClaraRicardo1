@@ -1,7 +1,10 @@
-# Olá, eu sou a Clara Ricardo 👋 😁
+# Olá, eu sou a Clara Ricardo 👋 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaraRicardo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaraRicardo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraRicardo1&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+</div>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraRicardo1&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
