@@ -12,15 +12,6 @@
 
 ---
 
-### 📌 Projetos em Destaque
-Como grande parte do meu código diário é privado por conta do ambiente corporativo, aqui estão alguns dos meus principais desenvolvimentos acadêmicos e de inovação:
-
-* **Classificação de Eventos Sísmico-Vulcânicos (Seminário de Monografia):** Pesquisa focada na classificação automática de eventos do vulcão Ubinas. O projeto envolve o pré-processamento de arquivos MiniSEED e a extração de características a partir de Funções de Modo Intrínseco (IMFs) para treinamento de modelos preditivos. *(Stack: Python, SVM, EEMD)*.
-* **Health Ledger:** Lógica e estruturação de um sistema focado no registro e gerenciamento unificado da produção médica e de consultas em diferentes municípios, aliando desenvolvimento tecnológico à gestão de saúde.
-* **Rede Neural MLP (Porta XOR):** Implementação matemática e treinamento de uma rede neural do tipo Multilayer Perceptron (MLP) para simular o comportamento de uma porta lógica XOR. *(Stack: Octave/MATLAB)*.
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens e Bibliotecas de Dados:**
