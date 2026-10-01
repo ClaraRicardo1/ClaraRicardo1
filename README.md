@@ -31,15 +31,6 @@
 
 ---
 
-### 📊 Atividade do GitHub
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaraRicardo1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ClaraRicardo1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
----
-
 ### 📫 Vamos trocar uma ideia?
 <div> 
   <a href="https://www.instagram.com/clara_ricardo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
