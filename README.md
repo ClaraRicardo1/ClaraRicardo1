@@ -3,9 +3,11 @@
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 Estudante focada em **Aprendizado de Máquina (Machine Learning)** e **Dados**.
-- 💡 Estagiária no setor de **Inovação**, atuando na otimização e melhoria de processos empresariais.
-- 🤖 Interessada em aplicar IA para resolver problemas reais e aumentar a eficiência operacional.
+- 🎓 Graduanda em **Engenharia de Computação** pela UFC, com foco em Inteligência Artificial, automação de processos e análise de dados.
+- 💻 Atuo como **Estagiária de TI**, desenvolvendo sistemas internos de ponta a ponta (Frontend, Backend e Banco de Dados), além de criar automações e integrações via APIs.
+- 🔬 Experiência acadêmica aplicada em **Machine Learning, Visão Computacional, Processamento de Sinais** e **Reconhecimento de Padrões**.
+- ⚙️ Vivência prática em liderança, gestão de projetos e melhoria contínua de processos corporativos.
+- 🤖 Apaixonada por criar soluções tecnológicas e aplicar IA para resolver problemas reais e escalar a eficiência operacional.
 - 📍 Sobral - CE.
 
 ---
@@ -26,6 +28,15 @@
 <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+---
+
+### 📊 Atividade do GitHub
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaraRicardo1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaraRicardo1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 
 ---
 
